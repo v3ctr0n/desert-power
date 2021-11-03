@@ -1,0 +1,161 @@
+body {
+	animation-name: backgroundPhotos;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	align-items: center;
+
+  	
+}
+
+@keyframes backgroundPhotos {
+	0% {
+		background: url(/images/1.png) ;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+    
+	}
+	10% {
+		background: url(/images/2.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		
+	}
+	15% {
+		background: url(/images/3.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	25% {
+		background: url(/images/4.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	30% {
+		background: url(/images/6.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    40% {
+		background: url(/images/7.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    45% {
+		background: url(/images/8.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    50% {
+		background: url(/images/9.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    55% {
+		background: url(/images/10.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		
+	}
+    60% {
+		background: url(/images/11.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		
+	}
+    65% {
+		background: url(/images/12.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    70% {
+		background: url(/images/13.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    75% {
+		background: url(/images/14.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    80% {
+		background: url(/images/15.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    85% {
+		background: url(/images/16.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		
+	}
+    90% {
+		background: url(/images/17.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+    95% {
+		background: url(/images/18.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+
+	}
+    100% {
+		background: url(/images/19.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+}
+
+h1{
+    font-family:'Syne Mono' ;
+    color:white;
+    position: fixed;
+	left: 18%;
+	top: 25%;
+    text-shadow: 2.5px 3px rgba(20, 20, 20, 0.671);
+}
+
+h2 {
+    font-family:'Syne Mono' ;
+    color:black;
+    position: fixed;
+	left: 18%;
+	top: 62%;
+
+}
